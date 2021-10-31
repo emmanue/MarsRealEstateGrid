@@ -32,3 +32,5 @@ data class MarsProperty(
         val isRental
                 get() = type == "rent"
 }
+
+/:Using @Json to map variable name to camel case proper naming
