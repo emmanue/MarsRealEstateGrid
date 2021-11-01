@@ -75,3 +75,5 @@ fun bindStatus(statusImageView: ImageView, status: MarsApiStatus?) {
         }
     }
 }
+
+// Coding following the best practices
