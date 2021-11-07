@@ -14,7 +14,7 @@
  * limitations under the License.
  *
  */
-
+// Following best practices with readability of code
 package com.example.android.marsrealestate.overview
 
 import androidx.lifecycle.LiveData
